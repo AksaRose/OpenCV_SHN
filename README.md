@@ -7,6 +7,7 @@ Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. [Varalakshmi K.G](https://github.com/TH-Activities/saturday-hack-night-template)
 2. [Vaishnavi R.B](https://github.com/TH-Activities/saturday-hack-night-template)
+3. [Aksa Rose](https://github.com/TH-Activities/saturday-hack-night-template)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
