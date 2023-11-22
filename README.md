@@ -21,11 +21,13 @@ The people who give count for the veg and non veg menu is fed into the database 
 ## How to configure
 1. Clone the repository to your local machine.
 2. run the command in the terminal
-
-*   ```sh
-pip install opencv-python <br/>
+ ```sh
+  pip install opencv-python <br/>
 pip install numpy </br>
 pip install face_recognition
-  ```
+
+   ```
+
 <br/>
 ## How to Run
+run the python file
