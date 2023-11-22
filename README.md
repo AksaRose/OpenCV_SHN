@@ -23,9 +23,9 @@ The people who give count for the veg and non veg menu is fed into the database 
 2. run the command in the terminal
 
 *   ```sh
-pip install opencv-python
-pip install numpy
+pip install opencv-python <br/>
+pip install numpy </br>
 pip install face_recognition
   ```
+<br/>
 ## How to Run
-Run the python code.
